@@ -1,2 +1,2 @@
-# Data_Analysist
+# MySQL learning
 For Learning
